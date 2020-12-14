@@ -2,7 +2,7 @@
 
 ###### 1인 개발
 
-## 목적
+## 💡 목적
 - 2019 충북대 디자인학과 졸업 작품
 - AR / VR Mobile Game 개발
 
@@ -20,7 +20,7 @@
 |Cinema 4D|Cinema 4D R19|
 |Adobe Illustrator|Adobe Illustrator|
 
-## 기획
+## ✏ 기획
 - 모바일 게임
 - 비선형적 스토리
 - AR / VR
