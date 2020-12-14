@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: b85b51cac68a67e4698ac3a343eeba5f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: myOctaneSettings
+    100002: Non_subD
+    100004: Non_subD_2
+    100006: Non_subD_3
+    100008: subD
+    100010: subD_1
+    100012: subD_2
+    100014: subD_3
+    100016: subD_4
+    100018: subD_5
+    100020: subD_6
+    100022: subD_7
+    100024: subD_8
+    100026: subDx
+    100028: subDx_2
+    100030: subDx_3
+    100032: Tractor
+    100034: //RootNode
+    100036: Tractor_2
+    100038: Wheels
+    400000: myOctaneSettings
+    400002: Non_subD
+    400004: Non_subD_2
+    400006: Non_subD_3
+    400008: subD
+    400010: subD_1
+    400012: subD_2
+    400014: subD_3
+    400016: subD_4
+    400018: subD_5
+    400020: subD_6
+    400022: subD_7
+    400024: subD_8
+    400026: subDx
+    400028: subDx_2
+    400030: subDx_3
+    400032: Tractor
+    400034: //RootNode
+    400036: Tractor_2
+    400038: Wheels
+    2100000: traktor_eu_elem
+    2100002: traktor_eu_tire
+    2100004: traktor_eu_alu
+    2100006: traktor_eu_shields
+    2100008: chrome1
+    2100010: traktor_eu_bottom
+    2100012: Car Paint - Metallic Orange
+    2100014: traktor_eu_glass
+    2100016: traktor_eu_red2
+    2100018: traktor_eu_fl_mirror
+    2100020: traktor_eu_fl_glass
+    2100022: Fabric - Leather Matte Beige
+    2100024: traktor_eu_bottom_dark
+    2300000: Non_subD
+    2300002: Non_subD_2
+    2300004: Non_subD_3
+    2300006: subD
+    2300008: subD_1
+    2300010: subD_2
+    2300012: subD_3
+    2300014: subD_4
+    2300016: subD_5
+    2300018: subD_6
+    2300020: subD_7
+    2300022: subD_8
+    2300024: subDx
+    2300026: subDx_2
+    2300028: subDx_3
+    3300000: Non_subD
+    3300002: Non_subD_2
+    3300004: Non_subD_3
+    3300006: subD
+    3300008: subD_1
+    3300010: subD_2
+    3300012: subD_3
+    3300014: subD_4
+    3300016: subD_5
+    3300018: subD_6
+    3300020: subD_7
+    3300022: subD_8
+    3300024: subDx
+    3300026: subDx_2
+    3300028: subDx_3
+    4300000: Non_subD_3
+    4300002: Non_subD_2
+    4300004: Non_subD
+    4300006: subDx_3
+    4300008: subDx_2
+    4300010: subDx
+    4300012: subD_8
+    4300014: subD_7
+    4300016: subD_6
+    4300018: subD_5
+    4300020: subD_4
+    4300022: subD_3
+    4300024: subD_2
+    4300026: subD_1
+    4300028: subD
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
