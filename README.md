@@ -9,8 +9,8 @@
 ## 🗓️ 기간
 18년 5월 - 18년 10월
 
-## ✉️ Git
-[https://github.com/wlsdhr0831/AR-VR-Mobile-Game](https://github.com/wlsdhr0831/AR-VR-Mobile-Game)
+## ✉️ 산출물
+[시연 영상](https://youtu.be/TYuElFnHuic)
 
 ## 🛠️ 개발환경
 |도구|버전|
